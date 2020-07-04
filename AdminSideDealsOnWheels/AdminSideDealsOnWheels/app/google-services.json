@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "111396989527",
+    "firebase_url": "https://dealsonwheels2-1918e.firebaseio.com",
+    "project_id": "dealsonwheels2-1918e",
+    "storage_bucket": "dealsonwheels2-1918e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111396989527:android:6fac2f5ec1d08f6c079112",
+        "android_client_info": {
+          "package_name": "com.example.adminsidedealsonwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111396989527-bo5lbldg4lvn2pipla4usfvhb7kulo6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminsidedealsonwheels",
+            "certificate_hash": "1bf77d3dd95332deaddd5bdea16ac3719402fbf8"
+          }
+        },
+        {
+          "client_id": "111396989527-frcgo6n4fs6so7cqca6qugis0bruf1ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminsidedealsonwheels",
+            "certificate_hash": "5bc547a148003e185ebfd9c2637125deb87cef17"
+          }
+        },
+        {
+          "client_id": "111396989527-6fu8nq1dt7ghksqk0bf561j8dsi72oih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbryU5NdRPU_-7KfQaMsanKcsYAG6zgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111396989527-6fu8nq1dt7ghksqk0bf561j8dsi72oih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111396989527:android:2040aef876b4a513079112",
+        "android_client_info": {
+          "package_name": "com.example.dealsonwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111396989527-55a1ssrb7pka8k31otletvi74ao6nkn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dealsonwheels",
+            "certificate_hash": "1bf77d3dd95332deaddd5bdea16ac3719402fbf8"
+          }
+        },
+        {
+          "client_id": "111396989527-om4uqr33fs9c5rntr7lllfgdjav82bes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dealsonwheels",
+            "certificate_hash": "5bc547a148003e185ebfd9c2637125deb87cef17"
+          }
+        },
+        {
+          "client_id": "111396989527-3fqqfcvqkmn3uu69r8glbdhig762ehgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dealsonwheels",
+            "certificate_hash": "a925640550f2e460168e0bc0618357149b6f7f94"
+          }
+        },
+        {
+          "client_id": "111396989527-6fu8nq1dt7ghksqk0bf561j8dsi72oih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbryU5NdRPU_-7KfQaMsanKcsYAG6zgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111396989527-6fu8nq1dt7ghksqk0bf561j8dsi72oih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111396989527:android:ce2e0ee019560d9c079112",
+        "android_client_info": {
+          "package_name": "core.purvik.firebaseotpdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111396989527-2g1j22fccmo86kot0qgn0sqjf7pcapdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "core.purvik.firebaseotpdemo",
+            "certificate_hash": "2825016d3ca1c0dc07e0dbdb016e819bd9451c96"
+          }
+        },
+        {
+          "client_id": "111396989527-6fu8nq1dt7ghksqk0bf561j8dsi72oih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbryU5NdRPU_-7KfQaMsanKcsYAG6zgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111396989527-6fu8nq1dt7ghksqk0bf561j8dsi72oih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dashboard">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.adminsidedealsonwheels.ui.dashboard.DashboardFragment"
+        android:label="Users"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+    android:id="@+id/navigation_home"
+    android:name="com.example.adminsidedealsonwheels.ui.home.HomeFragment"
+    android:label="Vehicles"
+    tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_bookings"
+        android:name="com.example.adminsidedealsonwheels.ui.Bookings.BookingFragment"
+        android:label="Bookings"
+        tools:layout="@layout/fragment_booking" />
+
+    <fragment
+        android:id="@+id/navigation_customer_service"
+        android:name="com.example.adminsidedealsonwheels.ui.CustomerService.CustomerService"
+        android:label="Customer Service"
+        tools:layout="@layout/customer_fragment" />
+
+    <fragment
+        android:id="@+id/log_out"
+        android:name="com.example.adminsidedealsonwheels.ui.logout.ui.logout.LogoutFragment"
+        android:label="Log Out"
+        tools:layout="@layout/logout_fragment" />
+
+
+</navigation>

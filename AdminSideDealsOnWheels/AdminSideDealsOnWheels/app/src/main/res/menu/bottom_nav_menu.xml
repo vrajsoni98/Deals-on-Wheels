@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Users" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="Vehicles" />
+
+    <item
+        android:id="@+id/navigation_bookings"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:title="Bookings" />
+
+    <item
+        android:id="@+id/navigation_customer_service"
+        android:icon="@drawable/ic_contact_phone_black_24dp"
+        android:title="Customer Service" />
+
+    <item
+        android:id="@+id/log_out"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:title="Logout" />
+
+</menu>
